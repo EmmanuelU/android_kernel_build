@@ -79,4 +79,6 @@ GTAGS
 
 *.orig
 *~
+boot.img
+flashable/zip/system
 \#*#
